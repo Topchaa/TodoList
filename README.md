@@ -8,3 +8,8 @@ Technologies and Languages used :
 * MySQL
 
 ![](/screenshots/screen1.PNG "Optional Title")
+
+
+![](/screenshots/screen2.PNG "Optional Title")
+
+![](/screenshots/screen3.PNG "Optional Title")
