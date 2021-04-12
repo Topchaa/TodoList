@@ -7,4 +7,4 @@ Technologies and Languages used :
 * PHP
 * MySQL
 
-![Alt text](screenshots/screen1.jpg?raw=true "Optional Title")
+![Alt text](/screenshots/screen1.png?raw=true "Optional Title")
