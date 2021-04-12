@@ -6,3 +6,5 @@ Technologies and Languages used :
 * Ajax
 * PHP
 * MySQL
+
+![Alt text](screenshots/screen1.jpg?raw=true "Optional Title")
